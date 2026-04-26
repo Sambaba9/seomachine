@@ -6,6 +6,7 @@
 > Initial release — SEO Machine Hermes Agent Adaptation
 
 ### 新增 | Added
+- **微信二维码** `assets/wechat_qr.png` — README 底部添加扫码联系板块
 - **CLI 工具** `bin/seomachine` — 7 个 Hermes Agent 可调用的 SEO 命令
   - `keywords` - 关键词研究 + 搜索意图分析
   - `write` - 生成 SEO 文章大纲

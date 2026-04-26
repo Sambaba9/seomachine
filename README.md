@@ -247,5 +247,19 @@ Adaptation & CLI wrapper © Sambaba9
 
 ---
 
+---
+
+## 📱 联系作者 | Contact
+
+有任何问题、建议或合作意向，欢迎扫码添加微信：
+
+<p align="center">
+  <img src="assets/wechat_qr.png" width="200" alt="WeChat QR Code">
+  <br>
+  <em>Scan to connect — 扫码添加微信</em>
+</p>
+
+---
+
 **如果这个项目对你有帮助，欢迎 Star ⭐ 支持！**  
 **If you find this project useful, please consider giving it a Star ⭐!**
